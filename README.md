@@ -1,4 +1,3 @@
-# HsuLin
 # 👋 Hi, I'm Hsu Lin Latt Naing
 
 # 🚀 About Me
