@@ -8,7 +8,7 @@
 ## 🛠 Skills & Tools
 - Languages: Python, JavaScript, HTML, CSS, Java
 
-##📌 Current Goals
+## 📌 Current Goals
 - Improve my coding skills
 - Build more interactive web applications
 - Learn backend development
