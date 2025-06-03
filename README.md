@@ -6,7 +6,7 @@
 - 🎭 I enjoy dancing, watching movies, and cooking.
 
 ## 🛠 Skills & Tools
-- Languages: Python, JavaScript, HTML, CSS, Java
+- Languages: Python, JavaScript, HTML, CSS, Java, SQL, React
 
 ## 📌 Current Goals
 - Improve my coding skills
